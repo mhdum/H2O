@@ -2,19 +2,20 @@ Here’s a detailed `README.md` for your water-efficient knowledge-sharing platf
 
 ---
 
-# Project Name: Water-Efficient Techniques Knowledge Sharing App
+# Problem Statement: Use of Digital Knowledge Sharing Platform like Wikis on sharing of water efficient techniques and methods for minimizing water scarcity.
 
-## PS Code: WKS2024
+## PS Code: SIH1690
 
-## Team Name: Aqua Innovators
+## Team Name: Tech Renegade
 
 ## Team Members:
-- John Doe
-- Jane Smith
-- Robert Brown
-- Emily Clark
+- Shaikh Muhammadumar
+- Dev Makwana
+- Palak Keswani
+- Tirth Patel
+- Bharvy Savaliya
 
-## Contact Email: aqua.innovators@example.com
+## Contact Email: mhdumar@gmail.com
 
 ---
 
@@ -129,30 +130,3 @@ The technologies and tools we have used to build our water-efficiency knowledge-
 
 ---
 
-## Screenshots and Demos 📸
-
-1. **Home Screen**
-   ![Home Screen](screenshots/home.png)
-
-2. **Article List**
-   ![Article List](screenshots/articles.png)
-
-3. **Water Usage Calculator**
-   ![Water Usage Calculator](screenshots/calculator.png)
-
-4. **Community Forum**
-   ![Community Forum](screenshots/forum.png)
-
----
-
-## Acknowledgments 🙌
-
-We would like to thank **Water Conservation Board** for providing valuable insights and content for our app.
-
-We are also grateful to the **React Native** and **Expo** communities for their excellent tools and resources.
-
-Finally, a big thank you to our team for their hard work and dedication in making this app a reality!
-
----
-
-Thank you for being a part of the **Water-Efficient Knowledge Sharing App** community!
